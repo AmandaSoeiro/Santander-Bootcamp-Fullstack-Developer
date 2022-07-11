@@ -3,7 +3,7 @@
 
 <h1 align="center"> Santander Bootcamp Fullstack Developer </h1>
 
-<img src="dio.png" width="300">
+<img src="di.png" width="300">
 <img src="santander.png" width="200">
 
 
