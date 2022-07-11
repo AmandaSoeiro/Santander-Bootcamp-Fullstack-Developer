@@ -4,7 +4,7 @@
 <h1 align="center"> Santander Bootcamp Fullstack Developer </h1>
 
 <img src="di.png" width="300">
-<img src="santander.png" width="200">
+<img src="sant.png" width="200">
 
 
 ### _Repositório do GitHub para compartilhar meu progresso do Bootcamp Santander/Dio_
