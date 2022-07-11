@@ -15,9 +15,9 @@
 ### ` Introdução a criação de websites com HTML5 e CSS3` ✅
 #### [website criado](https://amandasoeiro.github.io/lembrancadoinicio/) 💻
 ### `Posicionando elementos com flexbox em CSS`
-#### [website criado] ()
+#### [website criado](https://portfolioflexbox.netlify.app/) 💻
 ### ` Recriando a página inicial do Instagram`
-#### [website criado](https://amandasoeiro.github.io/interface-instagram/)
+#### [website criado](https://amandasoeiro.github.io/interface-instagram/) 💻
 
 
 
