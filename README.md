@@ -6,7 +6,6 @@
 <img src="di.png" width="300">
 <img src="sant.png" width="200">
 
-
 ### _Repositório do GitHub para compartilhar meu progresso do Bootcamp Santander/Dio_
 
 <h1 align="center"> Módulos do Bootcamp </h1>
